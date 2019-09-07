@@ -1,0 +1,18 @@
+{
+    "acrylicOpacity": 1,
+    "closeOnExit": true,
+    "colorScheme": "Ubuntu",
+    "commandline": "wsl.exe -d Ubuntu",
+    "cursorColor": "#eeeeec",
+    "cursorShape": "bar",
+    "fontFace": "Ubuntu Light",
+    "fontSize": 12,
+    "guid": "{YOUR_GUID}",
+    "historySize": 9001,
+    "icon": "FILE_PATH",
+    "name": "Ubuntu",
+    "padding": "0, 0, 0, 0",
+    "snapOnInput": true,
+    "startingDirectory": "%USERPROFILE%",
+    "useAcrylic": false
+}
